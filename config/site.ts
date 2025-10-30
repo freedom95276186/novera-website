@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Novera",
-  description: "专注于人工智能与认知科技领域的创新公司",
+  description: "专注于人工智能与认知科技领域的创新公司，让AI触手可及",
   url: "https://novera.ai",
   
   contact: {
